@@ -4,6 +4,7 @@ export default function WineList() {
   return (
     <div id="wine-list">
       <h1> Wine List </h1>
+      <hr />
       <h2 className="menu-header"> Reds </h2>
       <h4> Sicilia Rosso, Colosi - $9 glass, $32 bottle </h4>
       <p>

@@ -8,7 +8,9 @@ export default function Home() {
       <h1 className="home-title">
         Welcome to La Perla Ristoante&nbsp;Italiano
       </h1>
-      <h3>Call now for reservations: (754)&nbsp;222&#8209;9174</h3>
+      <p className="home">
+        Call now for reservations: (754)&nbsp;222&#8209;9174
+      </p>
     </div>
   );
 }

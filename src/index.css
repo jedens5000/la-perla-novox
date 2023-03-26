@@ -71,6 +71,9 @@ button:hover {
   background-color: rgb(22, 101, 167);
   cursor: pointer;
 }
+hr {
+  margin: 0 20vw;
+}
 /* NAVBAR */
 #navbar .nav-logo {
   display: flex;
@@ -114,12 +117,20 @@ button:hover {
   justify-content: center;
   height: 70vh;
   width: 100vw;
-  margin: 5rem auto 5rem;
+  margin: 2rem auto 5rem;
 }
 .logo-sm {
   display: block;
   width: 50%;
   margin: 0 auto;
+}
+.home {
+  font-family: var(--font-thin-print);
+  font-size: 1.75rem;
+  color: var(--font-color-red);
+  margin-top: 1rem;
+  text-align: center;
+  margin-top: 0;
 }
 @media (min-width: 1024px) {
   .logo-sm {
