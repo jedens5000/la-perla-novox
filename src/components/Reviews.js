@@ -57,6 +57,8 @@ export default function Reviews() {
 
   return (
     <>
+      <h1>What our customers say...</h1>
+      <hr />
       <div>
         {reviews.map((review, index) => (
           <Review key={index} review={review} />
