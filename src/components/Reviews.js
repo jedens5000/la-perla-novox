@@ -24,7 +24,7 @@ export default function Reviews() {
       date: " Feb. 2023",
     },
     {
-      text: "Went to LA Perla di Pompano last night for the first time and loved it! It offers amazing traditional Sicilian homemade pasta. I had the lobster stuffed ravioli with spinach & shrimp with marinara sauce. It was cooked perfectly, pasta done just right with melt in your mouth filling. And don't get me started on the fresh made daily dessert cart! The setting is lovely reminded me of my last trip to Siciliy and impeccable service. Bravo to chef Manuela and her front of the house team..👏👏 I highly recommend it..❤️❤️",
+      text: "Went to La Perla di Pompano last night for the first time and loved it! It offers amazing traditional Sicilian homemade pasta. I had the lobster stuffed ravioli with spinach & shrimp with marinara sauce. It was cooked perfectly, pasta done just right with melt in your mouth filling. And don't get me started on the fresh made daily dessert cart! The setting is lovely reminded me of my last trip to Siciliy and impeccable service. Bravo to chef Manuela and her front of the house team..👏👏 I highly recommend it..❤️❤️",
       reviewer: "Chantal V.",
       rating: 5,
       date: "Dec. 2022",
@@ -52,6 +52,30 @@ export default function Reviews() {
       reviewer: "Mandi B.",
       rating: 5,
       date: "Oct 2022",
+    },
+    {
+      text: "Wonderful dinner with great friends. Lovely atmosphere,  great menu, terrific service from our humorous waiter! Good bottle of wine, calamari w shrimp and octopus appetizers. We had chicken and eggplant parm, a veal dish, a short rib dish and a pasta dish. Coffee and Tirimisu  to end a lovely evening",
+      reviewer: "Nancy K.",
+      rating: 5,
+      date: "March 2022",
+    },
+    {
+      text: "One of the best Italian restaurants in a town with many good ones. Very authenic and fresh with reasonable prices. Deserts are homemade and delicious. The staff is very personable and friendly.",
+      reviewer: "Dan J.",
+      rating: 5,
+      date: "Dec 2022",
+    },
+    {
+      text: "We went to La Perla for the first time and we were very impressed. The food superb, so was the service and the ambience. We will be back . Highly recommend, very authentic Italian food, definitely not your American Italian fare.",
+      reviewer: "Sibylle K.",
+      rating: 5,
+      date: "Feb 2023",
+    },
+    {
+      text: "Amazing food and outstanding customer service. Beautiful resta for a romantic night or just a family dinner. The food is amazing and the variety of wines is great. Will definitely recommend 100%",
+      reviewer: "Jessica G.",
+      rating: 5,
+      date: "March 2023",
     },
   ];
 
