@@ -151,6 +151,16 @@ hr {
   font-family: var(--font-thin-print);
   text-align: center;
 }
+@media (max-width: 425px) {
+  #menu,
+  #wine-list {
+    margin: 0 5vw 5rem;
+  }
+  #menu h4,
+  #wine-list h4 {
+    text-align: center;
+  }
+}
 
 /* Gallery */
 #gallery {
